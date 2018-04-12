@@ -1,0 +1,8 @@
+[package]
+name = "pfsextractor"
+version = "1.0.2"
+authors = ["Nikolaj Schlej <schlej@live.de>"]
+
+[dependencies]
+flate2 = "0.2"
+nom = { git = "https://github.com/Geal/nom" }
